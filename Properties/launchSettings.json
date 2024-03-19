@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "clio": {
+      "commandName": "Project",
+      "commandLineArgs": "arsenal store hello \"each hello world!\""
+    }
+  }
+}
